@@ -1,0 +1,15 @@
+﻿StartDeal=128=
+If you want to change seat you must make your current seat Vacant before picking another
+
+Try not to play too quickly, play at a steady speed, wait until previous trick has been cleared off before playing next card.
+
+Whoever is North has to click "Deal / Bid", then "Play This deal" to get to the Bidding.
+North has to Ok the bidding.  At the end of the game North asks for the score and then picks "Next Game" 
+
+Don't use the Chat Windows for now.
+
+Deal Number is preset to start at 128 for session and increments after each hand, there is no need to use +/- in Deal Window.
+
+
+=Vacant=Aaron=Baron=Carrie=Garry=Harry=Marie=Larry=Sally=Ronnie=Johnnie=Omar=Player
+
