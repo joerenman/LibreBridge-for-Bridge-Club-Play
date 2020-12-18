@@ -16,6 +16,11 @@ I used nodejs servers to serve out the code and receive and broadcast the messag
 The directory LibreBridge_club contains all the source code.
 The directory multiserver contains all the nodejs javascript servers plus LibreBridge Webassembly compiled for a server at address 192.168.1.3
 
+A file startdeal.txt on the server is read at startup to set the start deal number, get any new text to be displayed on the notice
+board of the opening page and to load a list of player names.  If this file is not found defaults are used.
+
+Scores for each session are saved on the server by table number in csv format for offline analysis 
+
 CAVEAT  - I am not a programmer and have no software background so you might find some ugly code and bad practice herein.
 When I started I knew nothing about Qt, Webassembly, WebSockets or Javascript and now know I have only scratched the surface.
 However we have been using this succesfully to play club bridge over the internet.
