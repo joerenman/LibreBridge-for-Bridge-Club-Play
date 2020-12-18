@@ -25,4 +25,4 @@ CAVEAT  - I am not a programmer and have no software background so you might fin
 When I started I knew nothing about Qt, Webassembly, WebSockets or Javascript and now know I have only scratched the surface.
 However we have been using this succesfully to play club bridge over the internet.
 
-file:///home/joe/Pictures/Startscreen.png
+
