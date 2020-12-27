@@ -25,4 +25,8 @@ CAVEAT  - I am not a programmer and have no software background so you might fin
 When I started I knew nothing about Qt, Webassembly, WebSockets or Javascript and now know I have only scratched the surface.
 However we have been using this succesfully to play club bridge over the internet.
 
+![Startscreen](https://user-images.githubusercontent.com/41649388/103174938-2d5b0e80-485e-11eb-95c1-32ccee778856.png)
+![BidScreen](https://user-images.githubusercontent.com/41649388/103174940-3350ef80-485e-11eb-8ee8-b1ab2e1a04c4.png)
+![PlayScree](https://user-images.githubusercontent.com/41649388/103174943-377d0d00-485e-11eb-9ced-145bcb992430.png)
+
 
